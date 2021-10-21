@@ -1,7 +1,7 @@
 # 14-848 Mini Project
 
 ##
-This solution was implemented by Stefon Miller, a student who studied the materials earlier. 
+This solution was implemented by Stefon Miller, a student who studied the materials earlier. This solution shows only one way of doing the project and doesn't dictate the various ways to complete it.
 
 ## Video walkthrough
 [Code walkthrough and demo](https://www.youtube.com/watch?v=zG5EXmwwX14)
